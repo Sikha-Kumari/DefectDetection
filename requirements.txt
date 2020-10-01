@@ -4,8 +4,10 @@ Pillow
 cython
 matplotlib
 scikit-image
-tensorflow >= 2.0.0
+tensorflow==2.2
 keras>=2.0.8
 opencv-python
 h5py
 imgaug
+scikit-learn
+pandas
